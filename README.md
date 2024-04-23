@@ -1,6 +1,6 @@
 # Fine-tuning-CLIP
 
-!(https://github.com/yangengineering/Fine-tuning-clip/blob/main/overview.png)
+![imgs](https://github.com/yangengineering/Fine-tuning-clip/blob/main/overview.png)
 
 ## Fine-tune CLIP to your own dataset
 This code focuses on fine-tuning CLIP as a way to perform better on abnormal datasets.
