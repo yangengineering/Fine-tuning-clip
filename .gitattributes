@@ -1,1 +1,2 @@
 *.txt linguist-language=Python
+*.pyc linguist-language=Python
