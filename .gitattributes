@@ -1,2 +1,6 @@
 *.txt linguist-language=Python
 *.pyc linguist-language=Python
+*.sh linguist-language=Python
+*.py linguist-language=Python
+*.png linguist-language=Python
+*.jpg linguist-language=Python
