@@ -24,4 +24,8 @@ You can add images of your own datasets in the datasets folder. And add the path
 cd rkvan
 sh scripts/run1.sh
 ```
-The results are on the `rkvan/ouput`.
+The results are on the `rkvan/ouputs`.
+
+## Acknowledgement
+
+Our code base is build on top of [CLIP](https://github.com/openai/CLIP). 
