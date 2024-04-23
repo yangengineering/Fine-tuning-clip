@@ -1,0 +1,10 @@
+ftfy
+regex
+tqdm
+loguru
+pandas
+openpyxl
+matplotlib
+seaborn
+torch
+torchvision

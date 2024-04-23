@@ -1,0 +1,4 @@
+2024-04-23 04:49:26.061 | INFO     | Trainer:train_one_epoch:123 - Epoch: [1][0/17]	 loss 2.22444
+2024-04-23 04:49:28.031 | INFO     | Trainer:train_one_epoch:123 - Epoch: [1][5/17]	 loss 1.31839
+2024-04-23 04:50:18.251 | INFO     | Trainer:train_one_epoch:123 - Epoch: [1][10/17]	 loss 1.35524
+2024-04-23 04:50:20.173 | INFO     | Trainer:train_one_epoch:123 - Epoch: [1][15/17]	 loss 1.02064

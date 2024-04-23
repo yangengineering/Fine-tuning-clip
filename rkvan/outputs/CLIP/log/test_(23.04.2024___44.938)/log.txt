@@ -1,0 +1,10 @@
+2024-04-23 08:48:53.503 | INFO     | Trainer:train_one_epoch:131 - lr is 0.0002
+2024-04-23 08:48:53.507 | INFO     | Trainer:train_one_epoch:132 - Epoch: [1][0/17]	 loss 2.22444
+2024-04-23 08:48:56.332 | INFO     | Trainer:train_one_epoch:131 - lr is 0.0002
+2024-04-23 08:48:56.339 | INFO     | Trainer:train_one_epoch:132 - Epoch: [1][5/17]	 loss 1.31839
+2024-04-23 08:49:46.299 | INFO     | Trainer:train_one_epoch:131 - lr is 0.0002
+2024-04-23 08:49:46.306 | INFO     | Trainer:train_one_epoch:132 - Epoch: [1][10/17]	 loss 1.35524
+2024-04-23 08:49:48.250 | INFO     | Trainer:train_one_epoch:131 - lr is 0.0002
+2024-04-23 08:49:48.258 | INFO     | Trainer:train_one_epoch:132 - Epoch: [1][15/17]	 loss 1.02064
+2024-04-23 08:50:41.161 | INFO     | Trainer:train_one_epoch:139 - train accuracy is 64.84375
+2024-04-23 08:51:42.565 | INFO     | Trainer:train:158 - Best overall accuracy is 63.34519386291504
