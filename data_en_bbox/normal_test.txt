@@ -1,0 +1,543 @@
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4959606)-02-043-020-6003.jpg#@#2048 8056#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000026.jpg#@#1640 7360#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1579904)-01-042-025-6001.jpg#@#2048 7232#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4829597)-03-026-017-6004.jpg#@#2048 7720#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1593612)-02-020-013-6003.jpg#@#2048 6872#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/3-9.jpg#@#2048 8168#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000002.jpg#@#1640 8080#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1781869)-03-016-017-6004.jpg#@#2048 8216#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4842759)-03-006-026-6004.jpg#@#2048 7256#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1647262)-01-011-014-6001.jpg#@#2048 7240#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1606103)-01-022-014-6001.jpg#@#2048 7008#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(4915659)-02-043-018-6003.jpg#@#2048 7904#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1565624)-03-021-013-6004.jpg#@#2048 7000#@#Open-top container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1679870)-01-037-013-6001.jpg#@#2048 7208#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1641847)-02-047-014-6003.jpg#@#2048 6960#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000042.jpg#@#2048 7560#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.36-20231114095200(1744099)-03-011-007-6004.jpg#@#2048 7280#@#Closed single container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1776667)-01-019-017-6001.jpg#@#2048 8136#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1579904)-02-042-025-6003.jpg#@#2048 7232#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000018.jpg#@#2048 7880#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1736217)-01-047-018-6001.jpg#@#2048 8208#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1633527)-02-039-019-6003.jpg#@#2048 8192#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000029.jpg#@#2048 6840#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1680376)-03-020-017-6004.jpg#@#2048 6856#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4602377)-02-056-030-6003.jpg#@#2048 7776#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/货物/192.168.1.16-20231115011838(1553683)-02-017-010-6003.jpg#@#2048 6736#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4819370)-02-007-009-6003.jpg#@#2048 6696#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1745311)-01-054-014-6001.jpg#@#2048 7696#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(4932884)-01-010-012-6001.jpg#@#2048 6824#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/2-8.jpg#@#2048 8144#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车单封闭集装箱/192.168.1.36-20231114203105(1584321)-02-005-009-6003.jpg#@#2048 7280#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4968845)-03-046-019-6004.jpg#@#2048 8032#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000035.jpg#@#2048 6720#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1663281)-02-036-017-6003.jpg#@#2048 8272#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4904413)-02-054-006-6003.jpg#@#2048 6432#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1553957)-02-045-017-6003.jpg#@#2048 8336#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000038.jpg#@#1640 6720#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/1-4.jpg#@#2048 8112#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1821262)-02-014-011-6003.jpg#@#2048 7072#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1772328)-03-016-011-6004.jpg#@#2048 7232#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1755677)-02-022-011-6003.jpg#@#2048 6584#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1631879)-03-022-014-6004.jpg#@#2048 6984#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/1-2.jpg#@#2048 10144#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/192.168.1.16-20231016120550(1801311)-03-042-025-6004防尘盖正常图.jpg#@#2048 7000#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1776715)-01-017-011-6001.jpg#@#2048 7072#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1726856)-02-018-017-6003.jpg#@#2048 8120#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000033.jpg#@#2048 6520#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1506921)-01-014-010-6001.jpg#@#2048 7072#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000030.jpg#@#2048 7200#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1590513)-01-037-014-6001.jpg#@#2048 6848#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1673755)-01-046-022-6001.jpg#@#2048 6928#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1568489)-03-030-018-6004.jpg#@#2048 8208#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1800894)-02-036-019-6003.jpg#@#2048 8144#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4931554)-01-046-027-6001.jpg#@#2048 7592#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000047.jpg#@#2048 7680#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1802677)-02-052-017-6003.jpg#@#2048 8400#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4825166)-02-032-014-6003.jpg#@#2048 6600#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1774769)-03-027-013-6004.jpg#@#2048 7008#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/R_00000033.jpg#@#2048 7200#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/192.168.1.16-20231020075724(4849508)-03-030-013-6004防尘盖正常图.jpg#@#2048 6720#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(1525453)-03-022-007-6004.jpg#@#2048 7224#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/192.168.1.16-20231021101135(1650095)-03-027-012-6004防尘盖正常图.jpg#@#2048 6864#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1500474)-01-015-026-6001.jpg#@#2048 7664#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4828300)-02-051-014-6003.jpg#@#2048 6672#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(1755409)-02-019-007-6003.jpg#@#2048 7408#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车单封闭集装箱/192.168.1.36-20231114203105(1502499)-01-006-009-6001.jpg#@#2048 7280#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000007.jpg#@#2048 7800#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1631839)-01-055-028-6001.jpg#@#2048 7740#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1663258)-02-008-017-6003.jpg#@#2048 8216#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1841281)-03-003-018-6004.jpg#@#2048 8208#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000003.jpg#@#2048 7520#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1743876)-02-026-027-6003.jpg#@#2048 7760#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4879769)-01-021-011-6001.jpg#@#2048 6528#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(4203226)-03-006-011-6004.jpg#@#2048 6920#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1790790)-03-013-017-6004.jpg#@#2048 8120#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4849841)-03-035-024-6004.jpg#@#2048 6720#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4832009)-02-030-027-6003.jpg#@#2048 7420#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000051.jpg#@#2048 37960#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000015.jpg#@#2048 6560#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1566408)-02-041-020-6003.jpg#@#2048 8392#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1699974)-01-045-013-6001.jpg#@#2048 6840#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1833624)-02-044-017-6003.jpg#@#2048 8320#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1774769)-01-027-013-6001.jpg#@#2048 7008#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010( 82827)-02-001-018-6003.jpg#@#2048 11825#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1814825)-02-047-027-6003.jpg#@#2048 7824#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1506271)-01-051-024-6001.jpg#@#2048 7032#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1779337)-01-036-024-6001.jpg#@#2048 6992#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1715796)-03-041-018-6004.jpg#@#2048 8248#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1637182)-02-004-018-6003.jpg#@#2048 8176#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000054.jpg#@#1640 11440#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000001.jpg#@#2048 11280#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000050.jpg#@#2048 9640#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1747923)-02-041-021-6003.jpg#@#2048 7208#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000031.jpg#@#2048 7600#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1596995)-02-015-011-6003.jpg#@#2048 7088#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1431473)-02-016-017-6003.jpg#@#2048 7808#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000023.jpg#@#2048 7600#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000025.jpg#@#1640 7560#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4659296)-01-053-006-6001.jpg#@#2048 6400#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1759480)-01-011-010-6001.jpg#@#2048 6568#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4869025)-01-045-027-6001.jpg#@#2048 6632#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4956508)-02-042-020-6003.jpg#@#2048 8064#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1621350)-03-002-010-6004.jpg#@#2048 6968#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4878678)-02-051-006-6003.jpg#@#2048 6304#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1692187)-02-003-014-6003.jpg#@#2048 6848#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1818582)-01-049-029-6001.jpg#@#2048 6976#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/R_00000040.jpg#@#2048 7120#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4930231)-03-055-030-6004.jpg#@#2048 6720#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4907206)-03-005-010-6004.jpg#@#2048 6712#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4957824)-03-027-014-6004.jpg#@#2048 6552#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000019.jpg#@#2048 5480#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000051.jpg#@#2048 7440#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4974288)-02-050-024-6003.jpg#@#2048 6696#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(4871565)-01-048-017-6001.jpg#@#2048 8040#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1776715)-03-017-011-6004.jpg#@#2048 7064#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1845772)-03-050-029-6004.jpg#@#2048 7120#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1718839)-03-040-023-6004.jpg#@#2048 7184#@#Open-top container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1632904)-01-028-014-6001.jpg#@#2048 7056#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1500746)-03-036-018-6004.jpg#@#2048 6928#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1605584)-02-044-019-6003.jpg#@#2048 8368#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/192.168.1.16-20231016093232(1583613)-03-024-011-6004防尘盖正常图.jpg#@#2048 6600#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000009.jpg#@#2048 7160#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1834943)-03-018-014-6004.jpg#@#2048 7248#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1583685)-02-055-030-6003.jpg#@#2048 7440#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1661561)-01-049-014-6001.jpg#@#2048 7088#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1672814)-01-031-014-6001.jpg#@#2048 7000#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000023.jpg#@#2048 7640#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1630231)-02-030-017-6003.jpg#@#2048 7968#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1662173)-03-044-018-6004.jpg#@#2048 8208#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4930231)-01-055-030-6001.jpg#@#2048 6720#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4940057)-02-019-017-6003.jpg#@#2048 6512#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000010.jpg#@#2048 7720#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.140-20231015140925(1715036)-03-027-020-6004防尘盖正常图.jpg#@#2048 7808#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000042.jpg#@#2048 7680#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/192.168.1.16-20231021101135(4849346)-03-021-010-6004防尘盖正常图.jpg#@#2048 6552#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1601082)-02-019-027-6003.jpg#@#2048 7824#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1773053)-03-050-021-6004.jpg#@#2048 8480#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4862831)-01-010-017-6001.jpg#@#2048 7712#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1602222)-01-021-017-6001.jpg#@#2048 8056#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4873627)-01-039-019-6001.jpg#@#2048 8024#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000012.jpg#@#2048 7560#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1746657)-01-014-016-6001.jpg#@#2048 7176#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1608588)-01-020-017-6001.jpg#@#2048 8112#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000044.jpg#@#2048 7680#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4915972)-01-026-018-6001.jpg#@#2048 7872#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1555655)-01-012-010-6001.jpg#@#2048 6736#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000029.jpg#@#2048 7520#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1508446)-02-027-016-6003.jpg#@#2048 7368#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.36-20231114203105(4934284)-02-039-010-6003.jpg#@#2048 6832#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1601473)-03-010-017-6004.jpg#@#2048 8192#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1520364)-01-045-021-6001.jpg#@#2048 7080#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4894474)-02-052-006-6003.jpg#@#2048 6360#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4964150)-02-051-029-6003.jpg#@#2048 6760#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1598609)-01-034-018-6001.jpg#@#2048 8248#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1656048)-02-012-016-6003.jpg#@#2048 7168#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4664896)-01-017-010-6001.jpg#@#2048 6456#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4663960)-02-023-014-6003.jpg#@#2048 7040#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114203105(1623078)-03-017-008-6004.jpg#@#2048 6880#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/192.168.1.16-20231016093232(1686125)-03-021-011-6004防尘盖正常图.jpg#@#2048 6912#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1706287)-02-024-011-6003.jpg#@#2048 6592#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4907079)-03-008-014-6004.jpg#@#2048 6384#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.140-20231019213013(1638937)-03-005-030-6004防尘盖正常图.jpg#@#2048 10608#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1785440)-02-018-016-6003.jpg#@#2048 7224#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000017.jpg#@#2048 7920#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000030.jpg#@#2048 6880#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(4867212)-03-037-019-6004.jpg#@#2048 7856#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(-)-03-050-014-6004.jpg#@#2048 7024#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1596312)-02-036-012-6003.jpg#@#2048 6976#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1580555)-01-034-018-6001.jpg#@#2048 7152#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(4924072)-03-010-011-6004.jpg#@#2048 6944#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4936680)-01-046-007-6001.jpg#@#2048 7184#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4660031)-02-027-018-6003.jpg#@#2048 7640#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/1-8.jpg#@#2048 8136#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4842404)-03-032-027-6004.jpg#@#2048 7396#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1574734)-01-035-013-6001.jpg#@#2048 7280#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1609537)-02-027-013-6003.jpg#@#2048 6984#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1754394)-03-029-016-6004.jpg#@#2048 7128#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4841209)-01-041-027-6001.jpg#@#2048 7380#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000036.jpg#@#2048 120#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1778742)-02-012-026-6003.jpg#@#2048 7628#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000028.jpg#@#2048 7600#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4819370)-03-007-009-6004.jpg#@#2048 6696#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1774769)-02-027-013-6003.jpg#@#2048 7008#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1592490)-02-026-016-6003.jpg#@#2048 7480#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1785272)-02-055-014-6003.jpg#@#2048 6576#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4829597)-02-026-017-6003.jpg#@#2048 7712#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4964150)-01-051-029-6001.jpg#@#2048 6752#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1648659)-03-043-027-6004.jpg#@#2048 6952#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1675550)-01-031-016-6001.jpg#@#2048 7032#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1666903)-01-040-013-6001.jpg#@#2048 7096#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1752637)-02-028-016-6003.jpg#@#2048 7264#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4862831)-03-010-017-6004.jpg#@#2048 7704#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4660059)-01-021-011-6001.jpg#@#2048 6888#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1557680)-03-005-026-6004.jpg#@#2048 7588#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(4932884)-02-010-012-6003.jpg#@#2048 6824#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4849865)-02-018-012-6003.jpg#@#2048 6408#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1672814)-02-031-014-6003.jpg#@#2048 6992#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(4836982)-01-005-011-6001.jpg#@#2048 6920#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4942468)-03-043-025-6004.jpg#@#2048 6712#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000024.jpg#@#2048 7760#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1737706)-03-049-018-6004.jpg#@#2048 8176#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000054.jpg#@#2048 11440#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1673755)-03-046-022-6004.jpg#@#2048 6928#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1681376)-01-038-018-6001.jpg#@#2048 8264#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4893833)-02-034-017-6003.jpg#@#2048 7928#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231023113813(1678372)-02-012-019-6003.jpg#@#2048 8136#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1683364)-02-048-019-6003.jpg#@#2048 8320#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1635847)-03-035-013-6004.jpg#@#2048 6744#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4871803)-01-007-017-6001.jpg#@#2048 7648#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010( 82823)-03-002-018-6004.jpg#@#2048 10336#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231021132421(4873717)-03-010-027-6004防尘盖正常图.jpg#@#2048 8520#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000040.jpg#@#2048 7640#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.140-20231018190129(4837931)-03-025-039-6004防尘盖正常图.jpg#@#2048 12968#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000037.jpg#@#2048 3200#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1786909)-02-052-014-6003.jpg#@#2048 6864#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4929067)-03-023-027-6004.jpg#@#2048 7336#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4938374)-01-025-017-6001.jpg#@#2048 7840#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1693969)-03-017-016-6004.jpg#@#2048 7208#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4832175)-03-049-027-6004.jpg#@#2048 7540#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1776667)-02-019-017-6003.jpg#@#2048 8136#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1686670)-03-008-014-6004.jpg#@#2048 7000#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000028.jpg#@#2048 6920#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000028.jpg#@#2048 7560#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114163824(1589403)-01-023-015-6001.jpg#@#2048 7152#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1630231)-01-030-017-6001.jpg#@#2048 7976#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1785700)-01-041-017-6001.jpg#@#2048 8184#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000015.jpg#@#2048 7320#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4906782)-02-041-019-6003.jpg#@#2048 8024#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1819122)-01-034-017-6001.jpg#@#2048 6864#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1716193)-01-033-016-6001.jpg#@#2048 7048#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1625671)-03-054-029-6004.jpg#@#2048 6928#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1652846)-01-036-018-6001.jpg#@#2048 8288#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4889107)-01-009-026-6001.jpg#@#2048 7372#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1609709)-02-031-027-6003.jpg#@#2048 7708#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1756727)-01-018-017-6001.jpg#@#2048 8232#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/3-1.jpg#@#2048 11729#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000037.jpg#@#2048 7680#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1663281)-01-036-017-6001.jpg#@#2048 8272#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4812247)-01-050-029-6001.jpg#@#2048 6816#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(4965333)-01-010-014-6001.jpg#@#2048 6904#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1582422)-01-010-010-6001.jpg#@#2048 6928#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000036.jpg#@#1640 6480#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4914485)-02-029-017-6003.jpg#@#2048 7864#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/货物/192.168.1.16-20231115011838(4666661)-02-015-009-6003.jpg#@#2048 7040#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1575443)-01-050-028-6001.jpg#@#2048 7336#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000006.jpg#@#1640 7800#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1567707)-02-013-011-6003.jpg#@#2048 6872#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000022.jpg#@#2048 7320#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1666903)-03-040-013-6004.jpg#@#2048 7096#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1845772)-01-050-029-6001.jpg#@#2048 7120#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000004.jpg#@#2048 7480#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.140-20231023113813(4914812)-03-003-019-6004.jpg#@#2048 7392#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1650568)-01-028-015-6001.jpg#@#2048 6736#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210( 11825)-02-001-017-6003.jpg#@#2048 11833#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1675550)-03-031-016-6004.jpg#@#2048 7024#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1608390)-02-050-018-6003.jpg#@#2048 8088#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1674773)-01-052-024-6001.jpg#@#2048 8992#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000023.jpg#@#2048 7640#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4862897)-02-042-013-6003.jpg#@#2048 6672#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1759352)-01-026-013-6001.jpg#@#2048 7032#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4812247)-02-050-029-6003.jpg#@#2048 6816#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/1-5.jpg#@#2048 8136#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4933216)-01-026-020-6001.jpg#@#2048 6768#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000054.jpg#@#2048 11400#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000035.jpg#@#1640 6720#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1826766)-02-032-018-6003.jpg#@#2048 8248#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1657116)-03-013-010-6004.jpg#@#2048 6872#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4938374)-02-025-017-6003.jpg#@#2048 7840#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1596995)-03-015-011-6004.jpg#@#2048 7096#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4828300)-01-051-014-6001.jpg#@#2048 6672#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1582745)-01-043-025-6001.jpg#@#2048 7160#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000025.jpg#@#2048 7520#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1805298)-03-045-020-6004.jpg#@#2048 8248#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1608790)-01-035-017-6001.jpg#@#2048 8240#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1761870)-02-024-015-6003.jpg#@#2048 7256#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4663960)-01-023-014-6001.jpg#@#2048 7040#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4957824)-02-027-014-6003.jpg#@#2048 6560#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/U_00000023.jpg#@#1640 7680#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1845379)-01-038-025-6001.jpg#@#2048 6952#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1608311)-02-045-018-6003.jpg#@#2048 8208#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000003.jpg#@#2048 6960#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1692640)-01-048-026-6001.jpg#@#2048 7144#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4823696)-02-026-011-6003.jpg#@#2048 6560#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4207299)-02-053-029-6003.jpg#@#2048 6672#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1692714)-03-055-016-6004.jpg#@#2048 7096#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1686131)-01-039-014-6001.jpg#@#2048 6984#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4659296)-03-053-006-6004.jpg#@#2048 6400#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231026074422(1686304)-03-056-034-6004.jpg#@#2048 11960#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4908020)-02-050-006-6003.jpg#@#2048 6944#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000000.jpg#@#2048 11320#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/R_00000036.jpg#@#2048 240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1707808)-03-042-027-6004.jpg#@#2048 7804#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4889107)-02-009-026-6003.jpg#@#2048 7372#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000056.jpg#@#2048 41000#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000020.jpg#@#2048 7800#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4206299)-02-055-032-6003.jpg#@#2048 8896#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1579904)-03-042-025-6004.jpg#@#2048 7232#@#Open-top container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1517293)-02-047-028-6003.jpg#@#2048 6944#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1657128)-03-052-030-6004.jpg#@#2048 6552#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000027.jpg#@#2048 7320#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(10H3840)-01-001-010-6001.jpg#@#2048 10876#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4870396)-03-008-026-6004.jpg#@#2048 7328#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1778742)-01-012-026-6001.jpg#@#2048 7628#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000007.jpg#@#2048 7240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4932293)-02-009-015-6003.jpg#@#2048 6888#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000009.jpg#@#2048 7200#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000029.jpg#@#2048 7720#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(4200467)-03-004-011-6004.jpg#@#2048 6944#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1689314)-01-043-028-6001.jpg#@#2048 7692#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1659789)-02-003-025-6003.jpg#@#2048 7996#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4668377)-02-047-019-6003.jpg#@#2048 8008#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(4833779)-01-011-013-6001.jpg#@#2048 6672#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000035.jpg#@#2048 18040#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(4933295)-01-029-011-6001.jpg#@#2048 6296#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1783777)-03-011-015-6004.jpg#@#2048 7240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000017.jpg#@#2048 5360#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4870277)-02-017-010-6003.jpg#@#2048 6608#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4869025)-03-045-027-6004.jpg#@#2048 6632#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(4895018)-02-005-017-6003.jpg#@#2048 7936#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4203393)-02-028-017-6003.jpg#@#2048 7856#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1773074)-02-015-013-6003.jpg#@#2048 7112#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1523069)-03-052-028-6004.jpg#@#2048 7880#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1572906)-03-038-021-6004.jpg#@#2048 7272#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.160-20231016105445(4848549)-03-048-032-6004.jpg#@#2048 7632#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1524639)-01-033-019-6001.jpg#@#2048 8272#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1572906)-02-038-021-6003.jpg#@#2048 7280#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231023113813(1742166)-02-013-019-6003.jpg#@#2048 8200#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1801229)-01-051-017-6001.jpg#@#2048 8440#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4932293)-01-009-015-6001.jpg#@#2048 6888#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000046.jpg#@#2048 7680#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1640501)-02-048-028-6003.jpg#@#2048 7692#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1689314)-01-049-023-6001.jpg#@#2048 7032#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1744742)-03-019-012-6004.jpg#@#2048 6824#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1678779)-01-042-019-6001.jpg#@#2048 6856#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1685237)-03-049-027-6004.jpg#@#2048 7264#@#Open-top container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000008.jpg#@#2048 7240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4939218)-03-028-011-6004.jpg#@#2048 6416#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1778257)-03-015-009-6004.jpg#@#2048 6680#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000041.jpg#@#2048 6840#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1744393)-02-038-028-6003.jpg#@#2048 7880#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1577222)-02-027-018-6003.jpg#@#2048 8088#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4956508)-03-042-020-6004.jpg#@#2048 8056#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4825166)-03-032-014-6004.jpg#@#2048 6608#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4668377)-03-047-019-6004.jpg#@#2048 8000#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4904554)-01-031-017-6001.jpg#@#2048 7888#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4849865)-03-018-012-6004.jpg#@#2048 6448#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1776732)-03-013-017-6004.jpg#@#2048 8184#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1749387)-01-042-018-6001.jpg#@#2048 8240#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4931554)-02-046-027-6003.jpg#@#2048 7592#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(4839830)-02-009-012-6003.jpg#@#2048 6816#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1772890)-03-024-027-6004.jpg#@#2048 7776#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1558884)-03-022-017-6004.jpg#@#2048 8184#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1676972)-03-018-010-6004.jpg#@#2048 6712#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4654501)-03-049-029-6004.jpg#@#2048 6264#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1526233)-01-053-021-6001.jpg#@#2048 12632#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1517293)-03-047-028-6004.jpg#@#2048 6952#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4823397)-03-004-010-6004.jpg#@#2048 6704#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.160-20231016105445(1846620)-03-045-031-6004.jpg#@#2048 8096#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1662697)-03-027-017-6004.jpg#@#2048 8200#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000020.jpg#@#2048 7600#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(1622923)-01-024-007-6001.jpg#@#2048 7216#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1658586)-01-041-013-6001.jpg#@#2048 6992#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1637727)-01-048-019-6001.jpg#@#2048 8368#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1604263)-01-035-012-6001.jpg#@#2048 7064#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4835395)-03-024-017-6004.jpg#@#2048 7792#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1559340)-01-032-013-6001.jpg#@#2048 6800#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000018.jpg#@#2048 7320#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4904632)-02-028-027-6003.jpg#@#2048 7428#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000022.jpg#@#2048 7360#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000019.jpg#@#2048 7360#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1506921)-03-014-010-6004.jpg#@#2048 7072#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4957824)-01-027-014-6001.jpg#@#2048 6560#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1706287)-03-024-011-6004.jpg#@#2048 6592#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(-)-03-052-029-6004.jpg#@#2048 7008#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301( 10297)-02-001-017-6003.jpg#@#2048 11673#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4949301)-03-045-013-6004.jpg#@#2048 6496#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231021132421(4819058)-03-009-027-6004防尘盖正常图.jpg#@#2048 8552#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4847532)-02-034-019-6003.jpg#@#2048 7896#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4943444)-02-009-010-6003.jpg#@#2048 6520#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1749586)-01-015-017-6001.jpg#@#2048 8160#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114203105(1623078)-01-017-008-6001.jpg#@#2048 6880#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1509821)-01-011-017-6001.jpg#@#2048 8144#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1607429)-03-009-017-6004.jpg#@#2048 8184#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1800894)-01-036-019-6001.jpg#@#2048 8144#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1799967)-02-005-009-6003.jpg#@#2048 6648#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4842759)-01-006-026-6001.jpg#@#2048 7256#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1701795)-01-030-015-6001.jpg#@#2048 7184#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1573139)-01-033-017-6001.jpg#@#2048 7032#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1679101)-03-047-013-6004.jpg#@#2048 6784#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4848914)-03-049-007-6004.jpg#@#2048 7240#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4948300)-01-011-015-6001.jpg#@#2048 6568#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1757971)-03-007-014-6004.jpg#@#2048 6704#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1787641)-01-021-013-6001.jpg#@#2048 7096#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000001.jpg#@#2048 8120#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1503096)-01-041-024-6001.jpg#@#2048 7136#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4873297)-02-018-017-6003.jpg#@#2048 7888#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(4959351)-03-040-017-6004.jpg#@#2048 7928#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1821206)-03-030-018-6004.jpg#@#2048 8048#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1826766)-01-032-018-6001.jpg#@#2048 8240#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1513500)-02-014-017-6003.jpg#@#2048 8152#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4873028)-03-014-015-6004.jpg#@#2048 6520#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/货物/192.168.1.16-20231115011838(1820137)-01-012-007-6001.jpg#@#2048 6752#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4823214)-03-053-028-6004.jpg#@#2048 7572#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1658021)-01-027-014-6001.jpg#@#2048 7064#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000047.jpg#@#2048 8240#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000047.jpg#@#2048 8240#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4967516)-02-038-013-6003.jpg#@#2048 6872#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1708898)-02-017-017-6003.jpg#@#2048 8184#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000043.jpg#@#2048 7200#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/货物/192.168.1.16-20231115011838(4897083)-02-014-009-6003.jpg#@#2048 6752#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.36-20231114203105(1523646)-03-040-010-6004.jpg#@#2048 7112#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000010.jpg#@#2048 7560#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1779994)-03-014-017-6004.jpg#@#2048 8144#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1789524)-03-040-018-6004.jpg#@#2048 8248#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1550115)-02-035-019-6003.jpg#@#2048 8184#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1636649)-02-037-016-6003.jpg#@#2048 7328#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4898056)-03-019-017-6004.jpg#@#2048 7840#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000049.jpg#@#2048 9160#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1616435)-03-026-011-6004.jpg#@#2048 6600#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4907079)-02-008-014-6003.jpg#@#2048 6376#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1618995)-01-031-013-6001.jpg#@#2048 6912#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/R_00000021.jpg#@#2048 9760#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1563563)-02-045-028-6003.jpg#@#2048 7772#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1789233)-02-031-012-6003.jpg#@#2048 7024#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(10H3840)-03-001-010-6004.jpg#@#2048 10958#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1807453)-02-046-017-6003.jpg#@#2048 8360#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1524547)-01-011-017-6001.jpg#@#2048 8344#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(4205017)-01-007-017-6001.jpg#@#2048 7896#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/U_00000049.jpg#@#2048 7440#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1510680)-01-028-011-6001.jpg#@#2048 6576#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1838000)-03-026-018-6004.jpg#@#2048 8056#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1663174)-01-030-013-6001.jpg#@#2048 6928#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1722628)-01-031-018-6001.jpg#@#2048 8056#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/货物/192.168.1.16-20231115011838(4882027)-02-018-010-6003.jpg#@#2048 6856#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1755677)-03-022-011-6004.jpg#@#2048 6584#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1510680)-02-028-011-6003.jpg#@#2048 6576#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1517293)-01-047-028-6001.jpg#@#2048 6952#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.36-20231114203105(1513257)-03-025-009-6004.jpg#@#2048 7272#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1799202)-02-041-013-6003.jpg#@#2048 7224#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1674773)-02-052-024-6003.jpg#@#2048 8984#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4873627)-02-039-019-6003.jpg#@#2048 8024#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.160-20231028174726(1577264)-03-020-016-6004.jpg#@#2048 8144#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1647262)-02-011-014-6003.jpg#@#2048 7240#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/R_00000028.jpg#@#2048 7520#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1591109)-03-006-017-6004.jpg#@#2048 8504#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1596281)-01-042-021-6001.jpg#@#2048 7320#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(4930074)-03-016-016-6004.jpg#@#2048 7088#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231019213013(1785060)-02-019-030-6003.jpg#@#2048 11032#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1784465)-02-004-016-6003.jpg#@#2048 7176#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000002.jpg#@#2048 7400#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1728597)-03-030-015-6004.jpg#@#2048 6984#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车单封闭集装箱/192.168.1.36-20231114203105(1584321)-01-005-009-6001.jpg#@#2048 7288#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1765987)-03-053-031-6004.jpg#@#2048 6504#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1765096)-03-009-017-6004.jpg#@#2048 8432#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1772890)-01-024-027-6001.jpg#@#2048 7780#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000027.jpg#@#2048 7280#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114203105(4883860)-02-012-009-6003.jpg#@#2048 7200#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(4909577)-02-051-028-6003.jpg#@#2048 7540#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1609709)-01-031-027-6001.jpg#@#2048 7716#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(4836470)-01-016-010-6001.jpg#@#2048 6224#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(4877501)-03-054-032-6004.jpg#@#2048 6320#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1838000)-02-026-018-6003.jpg#@#2048 8072#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1609563)-03-023-017-6004.jpg#@#2048 8096#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1806016)-01-019-013-6001.jpg#@#2048 7000#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000020.jpg#@#2048 7800#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(4826787)-01-017-017-6001.jpg#@#2048 7792#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(4827949)-01-024-018-6001.jpg#@#2048 7760#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1780252)-02-041-018-6003.jpg#@#2048 6928#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1678945)-02-028-018-6003.jpg#@#2048 8088#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/L_00000047.jpg#@#2048 7120#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1659442)-03-023-017-6004.jpg#@#2048 8024#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231115073442(1756540)-01-017-013-6001.jpg#@#2048 7208#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1778900)-02-046-019-6003.jpg#@#2048 8232#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1582581)-01-032-016-6001.jpg#@#2048 7280#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000008.jpg#@#2048 7760#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4914485)-01-029-017-6001.jpg#@#2048 7872#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4973392)-03-040-019-6004.jpg#@#2048 8040#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(4904816)-01-014-012-6001.jpg#@#2048 6840#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000006.jpg#@#2048 7840#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1649528)-03-008-015-6004.jpg#@#2048 7088#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231113163121(1755677)-01-022-011-6001.jpg#@#2048 6584#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1664901)-03-020-017-6004.jpg#@#2048 8240#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1820733)-03-028-018-6004.jpg#@#2048 8016#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1568683)-02-022-017-6003.jpg#@#2048 7992#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1556395)-02-022-013-6003.jpg#@#2048 7504#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1841281)-01-003-018-6001.jpg#@#2048 8208#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1656789)-02-034-019-6003.jpg#@#2048 8176#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/33079_202310291421/R_00000006.jpg#@#2048 7240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(1753238)-03-015-007-6004.jpg#@#2048 7432#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.140-20231020114017(1828156)-03-039-022-6004.jpg#@#2048 7536#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1842527)-01-048-018-6001.jpg#@#2048 8192#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/1-12.jpg#@#2048 7840#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4900939)-01-056-006-6001.jpg#@#2048 6488#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(1720936)-01-043-013-6001.jpg#@#2048 7232#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000049.jpg#@#2048 7680#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1566408)-01-041-020-6001.jpg#@#2048 8392#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(4202188)-03-048-007-6004.jpg#@#2048 7216#@#Closed double container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.46-20231114102411(1783049)-03-054-016-6004.jpg#@#2048 6936#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1814825)-01-047-027-6001.jpg#@#2048 7820#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1505484)-03-023-018-6004.jpg#@#2048 8064#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000000.jpg#@#2048 11160#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4876266)-01-049-019-6001.jpg#@#2048 7896#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1709071)-02-027-018-6003.jpg#@#2048 8144#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4PM，两个问题，杂物/192.168.1.16-20231022072506(1689314)-02-049-023-6003.jpg#@#2048 7040#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4846837)-01-040-020-6001.jpg#@#2048 7920#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(1607288)-02-017-017-6003.jpg#@#2048 8232#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4871803)-03-007-017-6004.jpg#@#2048 7648#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000036.jpg#@#2048 6520#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1573856)-03-020-016-6004.jpg#@#2048 7240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000003.jpg#@#2048 8120#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(4905566)-02-030-017-6003.jpg#@#2048 7880#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(1838000)-01-026-018-6001.jpg#@#2048 8064#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/L_00000038.jpg#@#2048 7880#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.46-20231114164855(4867715)-02-039-012-6003.jpg#@#2048 6520#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/192.168.1.170-20231025065811(4965807)-03-018-018-6004.jpg#@#2048 8904#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000041.jpg#@#2048 7640#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(4921775)-01-034-023-6001.jpg#@#2048 6648#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/大篷布/192.168.1.36-20231114163824(1693969)-02-017-016-6003.jpg#@#2048 7240#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，煤，石子，石块，钢板，集装箱，一个问题/192.168.1.86-20231015094441(4918522)-01-022-018-6001.jpg#@#2048 7736#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000039.jpg#@#2048 7640#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/5 AM 一个问题/192.168.1.86-20231024051421(1722628)-02-031-018-6003.jpg#@#2048 8056#@#Tank container is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/L_00000049.jpg#@#2048 9160#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双敞顶箱/192.168.1.16-20231113151000(1582745)-03-043-025-6004.jpg#@#2048 7160#@#Open-top container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1657116)-01-013-010-6001.jpg#@#2048 6872#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1707129)-02-050-019-6003.jpg#@#2048 8160#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/U_00000037.jpg#@#2048 7640#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/罐式集装箱/192.168.1.36-20231114095200(4920723)-02-014-007-6003.jpg#@#2048 7152#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(4837002)-02-008-017-6003.jpg#@#2048 7656#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/41078_202311021457/R_00000045.jpg#@#2048 7640#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/4 PM-煤，集装双箱，集装单箱，型钢，大篷布，一个问题/192.168.1.86-20231015141301(1749586)-02-015-017-6003.jpg#@#2048 8160#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/边绳正常图/192.168.1.140-20231023113813(1579779)-01-007-019-6001.jpg#@#2048 6840#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/7 AM，一个问题/192.168.1.86-20231015082010(1685785)-02-015-017-6003.jpg#@#2048 8160#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(1785272)-01-055-014-6001.jpg#@#2048 6576#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第六批图片/第九批图片/87105_202311021445/R_00000028.jpg#@#2048 7640#@#Carriage with big tarp is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114203105(4929740)-02-009-009-6003.jpg#@#2048 7000#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/11AM，顺位33,38/192.168.1.46-20231018105613(4827615)-02-027-011-6003.jpg#@#2048 6504#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 AM，没有问题/192.168.1.66-20231019094453(1500474)-03-015-026-6004.jpg#@#2048 7664#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/12 AM，顺位15,46，两个问题/192.168.1.16-20231020121741(1650568)-03-028-015-6004.jpg#@#2048 6736#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.46-20231115001552(1660153)-01-040-026-6001.jpg#@#2048 7112#@#Tank container is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1690357)-02-050-017-6003.jpg#@#2048 8432#@#Steel coil carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/6 PM-煤炭，小篷布，卷钢，一个问题/192.168.1.86-20231015164210(1650266)-01-019-017-6001.jpg#@#2048 8128#@#Other types of carriage is normal.
+/home/huojian/yolov7/datasets/VQA用数据/无问题数据/10 PM -煤炭-一个问题/192.168.1.86-20231015220034(4555667)-03-045-019-6004.jpg#@#2048 8008#@#Sandy soil carriage is normal.
+/home/huojian/yolov7/datasets/第七批图片/第十批图片231211/敞车双封闭集装箱/192.168.1.36-20231114143536(1613312)-02-013-007-6003.jpg#@#2048 6864#@#Other types of carriage is normal.

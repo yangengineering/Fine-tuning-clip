@@ -1,0 +1,274 @@
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230706142032(1502616)-03-009-011-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.46-20230628192047(1778647)-02-007-010-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/VQA用数据/有问题数据/192.168.1.16-20231020121741(1633569)-01-047-028-6001.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/VQA用数据/积水图片/192.168.1.150-20230822153700(1659627)-03-037-042-6004.jpg#@#Carriage with big tarp occurs standing water.
+/home/huojian/yolov7/datasets/pit_generate/images/train/车厢内异物 (17)_副本.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(4668898)-01-040-019-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.170-20230627145102(0552093)-01-052-012-6001敞车无篷布-侧-标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.86-20230627034034(4874578)-02-006-010-6003敞车无篷布-侧-标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629101337(1629185)-03-008-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230607142051(4827261)-03-039-044-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230630145924(4971997)-02-037-013-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230701145400(4942092)-03-008-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.36-20230701125908(4202831)-03-031-003-6004敞车无篷布-顶-未标注.jpg#@#Closed single container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.36-20230703160500(1729218)-03-018-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/val/192.168.1.66-20230627072214(4834994)-03-006-026-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/车厢内异物 (1)_副本.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.10-20230703151304(8004044)-02-012-013-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230716122659(4943133)-03-050-013-6004敞车无篷布-顶-未标注（顶部彩条布）.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230701055809(4813412)-03-043-016-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarprope_broken_side/images/train/绳网断裂侧面2.jpg#@#Other types of carriage occurs tarp ropes broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629144425(4848388)-03-018-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230630145924(4971594)-02-043-013-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230610174219(1790396)-01-030-013-6001敞车无篷布-侧-未标注.jpg#@#Carriage with big tarp occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230709184259(4816716)-03-020-013-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.190-20230629165942(1640726)-01-008-006-6001敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.86-20230628214703(5730093)-03-019-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230701204227(1714623)-03-044-019-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629131034(1811340)-03-030-013-6004敞车有篷布-顶-未标注.jpg#@#Carriage with small tarp occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.56-20230701024654(0552023)-01-042-011-6001敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.190-20230626133809(1689597)-01-003-003-6001敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230629132349(1603469)-03-002-028-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tanker_cover_missing_generate/images/val/192.168.1.140-20231008051223(1503755)-03-043-032-6004-敞车无篷布-罐式2个-顶部-防尘盖缺失-未标注.jpg#@#Tank container misses tanker covers.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.26-20230701121008(4827395)-03-020-041-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.86-20230702224948(1670125)-03-017-009-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230629171422(1568217)-03-033-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230330154620(1505760)-03-028-009-6004未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/val/192.168.1.76-20230701154249(1588292)-03-026-004-6004敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1741735)-01-026-014-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.170-20230618130404(1585098)-02-009-013-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.66-20230812143507(5778390)-03-027-021-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/val/192.168.1.66-20230701150704(1524434)-02-019-039-6003敞车无篷布-侧-未标注（车体塑料袋）.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230619065825(4825078)-03-033-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(4906631)-03-043-021-6004.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230701142426(1560417)-03-045-017-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230618183138(1678935)-02-009-016-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.86-20230627034034(4874578)-02-006-010-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1505547)-01-025-014-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230701221239(1432547)-03-018-010-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.86-20230603134439(5487223)-03-019-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230627221249(4918856)-03-046-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/val/192.168.1.86-20230627142818(4863432)-01-034-009-6001敞车有篷布-侧-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230630084928(1520314)-03-030-015-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230602142058(1647907)-03-049-039-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230703164719(4612688)-03-006-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.170-20230618130404(4676610)-02-013-012-6003敞车无篷布-侧-未标注.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/side_rope/images/val/R_00000012篷布细绳脱钩-侧.jpg#@#Carriage with small tarp occurs side ropes decoupling.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.100.60-20230801114916(1696083)-01-015-017-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230328003419(4969617)-03-014-011-6004未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/车厢内异物 (7)_副本.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230627154157(0552086)-02-023-023-6003敞车无篷布-侧-未标注.jpg#@#Steel coil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.140-20230627234736(1557707)-02-016-035-6003敞车无篷布-顶-标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230701062408(1744436)-03-046-017-6004敞车有篷布-顶-未标注.jpg#@#Carriage with small tarp occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230618225646(0552061)-03-025-014-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1501429)-02-030-015-6003.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230703105954(1651994)-03-039-028-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.100.40-20230702113832(-)-03-016-019-6004敞车无篷布-侧-未标注.jpg#@#Closed single container occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.190-20230603105900(-)-02-008-018-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.100.20-20230830103813(1550956)-03-047-009-6004篷布积水.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.86-20230627142818(4863432)-01-034-009-6001敞车有篷布-侧-标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230618143436(5498093)-03-048-013-6004敞车无篷布-顶-未标注.jpg#@#Open-top container occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.76-20230714134446(1662299)-02-009-016-6003敞车无篷布-侧-未标注.jpg#@#Steel coil carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230701145400(1596643)-03-007-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230817111036(1585963)-01-055-021-6001敞车有篷布-侧-未标注-篷布破口.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629101337(4893675)-03-005-013-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/VQA用数据/有问题数据/192.168.1.16-20231016184733(4900596)-03-014-008-6004罐式集装箱顶部杂物.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.130-20230701120920(1665873)-03-027-032-6004敞车无篷布-顶-未标注.jpg#@#Carriage with big tarp occurs litters.
+/home/huojian/yolov7/datasets/openwagon_person/images/train/敞车人员10.jpg#@#Other types of carriage occurs persons.
+/home/huojian/yolov7/datasets/openwagon_person/images/train/敞车人员16.jpg#@#Sandy soil carriage occurs persons.
+/home/huojian/yolov7/datasets/tanker_cover_missing_generate/images/train/192.168.1.16-20231009102129(1518687)-03-003-007-6004-敞车无篷布-罐式2个-顶部-防尘盖缺失-未标注.jpg#@#Tank container misses tanker covers.
+/home/huojian/yolov7/datasets/openwagon_person/images/train/敞车人员1.jpg#@#Carriage with big tarp occurs persons.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1510700)-02-041-020-6003.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230627212838(5227843)-03-027-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230630063833(4955114)-03-036-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629133815(5337880)-03-019-013-6004敞车无篷布-顶-未标注.jpg#@#Open-top container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230702212105(4875222)-03-022-017-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1515828)-01-036-017-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.150-20230630154855(4932322)-03-002-020-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230629124234(1574945)-02-015-017-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.150-20230822153700(1659627)-03-037-042-6004.jpg#@#Carriage with small tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.150-20230602213415(1730100)-02-004-020-6003敞车有篷布-侧-未标注（篷布有个洞）.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230629132646(4893675)-03-006-013-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.100.59-20230818102056(1627209)-03-013-010-6004敞顶箱篷布绳眼连续未穿（4个）-未标注.jpg#@#Carriage with small tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230629131420(4801006)-03-011-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.26-20230701222307(-)-03-005-038-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230606184008(4926042)-03-040-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230629125411(5459062)-03-042-025-6004敞车无篷布-顶-未标注.jpg#@#Open-top container occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.150-20230822153700(1750403)-03-040-040-6004敞车有篷布-顶-未标注.jpg#@#Carriage with small tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230627064307(1621771)-03-015-009-6004敞车有篷布-顶-未标注.jpg#@#Carriage with big tarp occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.36-20230627171640(1661654)-03-036-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230606112317(1557149)-03-006-006-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.46-20230702220951(4932409)-03-030-009-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_person/images/train/敞车人员15.jpg#@#Sandy soil carriage occurs persons.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230328141856(1735156)-03-009-016-6004未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.86-20230701055404(4955192)-03-039-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarprope_broken_side/images/val/绳网断裂侧面20.jpg#@#Other types of carriage occurs tarp ropes broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230618225646(0552053)-03-003-011-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.56-20230627093858(4878387)-03-013-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230629132646(1643347)-03-032-015-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.170-20230619064336(4974761)-03-011-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1765662)-03-038-018-6004.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230630142519(1575585)-03-044-049-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230602142058(5727866)-03-048-039-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230701034302(1557300)-03-048-017-6004敞车无篷布-顶-未标注.jpg#@#Open-top container occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.100.59-20230702115446(5245091)-03-012-008-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.170-20230618130404(1585098)-02-009-013-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.76-20230627164121(1745688)-03-014-023-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230701204227(1714119)-03-039-019-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230701111341(1784675)-03-053-018-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230619153913(4896349)-03-025-019-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230602142058(1600678)-03-026-039-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.100.60-20230801114916(1677006)-03-019-017-6004.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.66-20230812151818(5488132)-03-027-016-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230701141827(1772331)-03-027-010-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230604090943(1773468)-03-044-007-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.86-20230702224948(4875222)-03-022-009-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/敞车无篷布-顶-车顶杂物-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230630171543(1642601)-03-043-013-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.66-20230703105954(1651994)-03-039-028-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629101337(4202548)-03-039-013-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.36-20230627122409(1682135)-01-009-015-6001敞车无篷布-侧-标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230619065825(4827277)-03-019-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.86-20230701013821(1755566)-03-025-010-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/pit_generate/images/train/顶部凹陷_副本.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230629170131(1695798)-03-011-008-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.170-20230328061334(4928225)-03-027-009-6004未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.86-20230701152811(1823733)-03-052-012-6004敞车无篷布-顶-未标注.jpg#@#Steel coil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/val/192.168.1.190-20230611010236(-)-03-024-022-6004敞车有篷布-顶-未标注（篷布破损+异物）.jpg#@#Carriage with big tarp occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.150-20230701051612(1776598)-03-045-038-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.66-20230628092304(1589580)-03-007-014-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230716122659(4943133)-03-050-013-6004敞车无篷布-顶-未标注（顶部彩条布）.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230630142519(5480044)-03-015-049-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230330155448(1682108)-03-034-015-6004未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230627025006(4851484)-02-006-040-6003敞车无篷布-侧-标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/车厢内异物 (10)_副本.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629144425(1618159)-03-008-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230625214510(1712553)-03-020-010-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1510700)-01-041-020-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230701134431(4906867)-03-025-045-6004敞车无篷布-顶-未标注.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/VQA用数据/积水图片/192.168.100.40-20230728070528(1682269)-03-002-005-6004敞车有篷布-顶-未标注-顶部压绳断开01.jpg#@#Carriage with big tarp occurs standing water.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.56-20230601181917(1818568)-03-011-010-6004敞车无篷布-顶-未标注.jpg#@#Closed double container occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.150-20230701051612(4664241)-03-027-038-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1574944)-02-032-016-6003.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/tarprope_broken_top/images/train/顶部绳网断裂3.jpg#@#Carriage with big tarp occurs tarp ropes broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.170-20230629184201(4950242)-03-008-011-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.36-20230628213750(1650459)-03-024-007-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.86-20230602195008(4969856)-03-036-012-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.170-20230328060115(1833430)-03-026-011-6004未标注.jpg#@#Steel coil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230630142519(5743258)-03-016-049-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/val/192.168.1.66-20230628090006(4955786)-01-030-012-6001敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230619145142(4864787)-03-031-013-6004敞车无篷布-顶-未标注.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/VQA用数据/积水图片/192.168.100.60-20230801114916(1677006)-03-019-017-6004.jpg#@#Carriage with big tarp occurs standing water.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.66-20230812151818(5314568)-03-016-016-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/tanker_cover_missing_generate/images/train/192.168.1.56-20231010230716(1559521)-03-038-016-6004敞车无篷布-管式集装箱-顶-防尘盖丢失-未标注.jpg#@#Tank container misses tanker covers.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.66-20230812143507(5778387)-03-023-021-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230629054249(1661460)-03-032-013-6004敞车有篷布-顶-未标注.jpg#@#Carriage with big tarp occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/val/192.168.100.60-20230801114916(1818354)-01-018-017-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/车厢内异物 (18)_副本.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230701074414(1635465)-03-008-010-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_person/images/train/敞车人员4.jpg#@#Sandy soil carriage occurs persons.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230630142519(1781486)-03-009-049-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_person/images/val/敞车19.jpg#@#Other types of carriage occurs persons.
+/home/huojian/yolov7/datasets/VQA用数据/有问题数据/192.168.1.86-20231015082010(4965974)-01-031-018-6001.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.130-20230629174841(-)-03-055-038-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230703132401(1713466)-03-034-017-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.46-20230626221053(4822732)-01-013-012-6001敞车无篷布-侧-标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230629170131(4848388)-03-019-010-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.150-20230822153700(1803664)-03-054-039-6004.jpg#@#Carriage with small tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629144425(4837646)-03-002-011-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230630142519(1825878)-03-011-049-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.36-20230402040748(1550516)-02-019-014-6003敞车无篷布-侧-未标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230703144934(1729218)-03-017-032-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230619065825(4827277)-03-019-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.190-20230626145535(1627980)-02-044-011-6003敞车无篷布-侧-标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.130-20230629174841(-)-03-053-038-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/val/192.168.100.70-20230829184003(1765388)-03-029-011-6004篷布积水.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.26-20230701222307(-)-03-014-039-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/顶部石块_副本.jpg#@#Closed single container occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.66-20230812151818(5465733)-03-025-016-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.100.10-20230702133041(4882733)-03-013-014-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230629132646(4943075)-03-022-014-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230626134126(1639104)-03-002-023-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230630154855(4932322)-03-002-020-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230601012507(1756690)-03-055-012-6004敞车无篷布-顶-未标注.jpg#@#Closed double container occurs litters.
+/home/huojian/yolov7/datasets/side_rope/images/val/192.168.100.10-20230811142931(1608510)-01-028-020-6001-敞车小篷布-侧边-边绳破损-未标注.jpg#@#Carriage with small tarp occurs side ropes broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230701051612(1776598)-03-045-038-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230626172737(4931816)-03-016-033-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230629165942(1675303)-03-025-009-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/val/192.168.100.70-20230730120331(1663497)-01-011-014-6001敞车有篷布-侧-篷布大量积水导致篷布下陷-未标注.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230701024340(1752682)-03-017-016-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230328141856(1803454)-03-006-016-6004未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/敞车无篷布-顶-车顶杂物-未标注1.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.130-20230701042000(1593813)-03-030-034-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.66-20230812151818(5456254)-03-023-016-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.160-20230328043111(1578370)-01-007-009-6001未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.66-20230701055809(4813412)-03-043-016-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(4946703)-02-035-016-6003.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.190-20230629140454(4917153)-03-046-017-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230629075754(1412500)-03-046-026-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/pit_generate/images/val/192.168.1.66-20230330232107(4895643)-03-059-014-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230626223937(4897746)-03-010-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230701023628(1587241)-03-027-015-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230630154855(1519140)-01-037-013-6001敞车无篷布-侧-未标注.jpg#@#Carriage with big tarp occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230630095436(5312604)-03-014-038-6004敞车有篷布-顶-未标注.jpg#@#Carriage with small tarp occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.76-20230628094138(5723048)-03-014-009-6004敞车无篷布-顶-未标注.jpg#@#Open-top container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/371568c091c04310d1e6f3ff10bda5a.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/车厢内异物 (12)_副本.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230701131326(4931994)-03-016-017-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230701142426(1507812)-03-026-012-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/车厢内异物 (15)_副本.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/VQA用数据/积水图片/192.168.1.150-20230822153700(1737355)-03-035-042-6004.jpg#@#Carriage with big tarp occurs standing water.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230627234736(1557707)-02-016-035-6003敞车无篷布-顶-未标注.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230702112754(1683269)-03-021-021-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(4200438)-01-034-016-6001.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.86-20230911171048(1697202)-03-032-019-6004敞车有篷布-顶-篷布眼未穿1个-未标注.jpg#@#Carriage with small tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/VQA用数据/有问题数据/192.168.1.86-20231017072402(1603843)-03-049-018-6004杂物.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.46-20230628192047(1778647)-02-007-010-6003敞车无篷布-侧-标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(1505547)-02-025-014-6003.jpg#@#Other types of carriage occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.130-20230618150732(1722719)-03-021-036-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarprope_broken_side/images/train/绳网断裂侧面15.jpg#@#Other types of carriage occurs tarp ropes broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230602142058(1726207)-03-027-039-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/tarprope_broken_top/images/train/绳网破损15.jpg#@#Carriage with big tarp occurs tarp ropes broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230604185731(1609739)-03-015-029-6004敞车无篷布-顶-未标注.jpg#@#Closed single container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_person/images/train/敞车24.jpg#@#Carriage with big tarp occurs persons.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.100.70-20230702151245(1707617)-03-029-016-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629114259(1808530)-03-008-032-6004敞车无篷布-顶-未标注.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230629101337(4946428)-03-013-011-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/val/192.168.100.70-20230810131654(1526353)-03-021-011-6004-敞车大篷布-顶部-绳网断裂-未标注.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.190-20230701012425(1693145)-03-025-009-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.56-20230810103029(1839102)-03-014-054-6004-敞车小篷布-压绳绳眼未穿-未标注.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230703061241(4845251)-03-003-023-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.56-20230916002026(5731718)-01-017-028-6001敞车有篷布-侧-未标注-边绳断裂.jpg#@#Carriage with small tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.140-20230629122848(4967150)-01-051-028-6001敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.140-20230602142058(5490466)-03-036-039-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/tarprope_broken_side/images/train/绳网断裂侧面8.jpg#@#Other types of carriage occurs tarp ropes broken.
+/home/huojian/yolov7/datasets/side_rope/images/train/045-063-6003板车-侧-篷布边绳脱钩.jpg#@#Carriage with small tarp occurs side ropes decoupling.
+/home/huojian/yolov7/datasets/VQA用数据/积水图片/192.168.100.70-20230730120331(1663497)-03-011-014-6004篷布大量积水-wei 标注.jpg#@#Carriage with big tarp occurs standing water.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.36-20230627122409(1682135)-01-009-015-6001敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/tarp_broken/images/train/192.168.1.16-20230910011653(4536695)-03-031-016-6004.jpg#@#Carriage with big tarp occurs tarp broken.
+/home/huojian/yolov7/datasets/tanker_cover_missing_generate/images/train/罐车生成6.jpg#@#Tank container misses tanker covers.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.190-20230710003557(4804409)-02-004-018-6003敞车无篷布-侧-未标注（车门有异物）.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230701064608(-)-03-052-031-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230701020200(1754868)-02-037-040-6003敞车无篷布-顶-未标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.160-20230330171939(1573682)-03-032-015-6004未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230703062933(1580443)-03-038-011-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.66-20230330232107(4895643)-03-059-014-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.46-20230701223401(1651468)-03-033-009-6004敞车无篷布-顶-wei 标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.76-20230602183840(5334816)-03-023-013-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/openwagon_person/images/val/敞车25.jpg#@#Carriage with small tarp occurs persons.
+/home/huojian/yolov7/datasets/pit_generate/images/train/192.168.1.86-20230628214703(1514496)-03-013-011-6004敞车无篷布-顶-未标注.jpg#@#Sandy soil carriage occurs pits.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.140-20230627234736(1557707)-02-016-035-6003敞车无篷布-顶-未标注.jpg#@#Tank container occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.150-20230630171543(1619182)-03-009-013-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/val/192.168.1.46-20230628192047(1778647)-02-007-010-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.190-20230626133809(1689597)-01-003-003-6001敞车无篷布-侧-标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.9-20230702060600(4958306)-03-011-008-6004敞车无篷布-顶-未标注.jpg#@#Closed double container occurs litters.
+/home/huojian/yolov7/datasets/VQA用数据/有问题数据/192.168.1.86-20231017134316(1592039)-01-008-018-6001车体杂物-标注.jpg#@#Tank container occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.56-20230812160159(5250516)-03-008-018-6004.jpg#@#Steel coil carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230629011701(4850219)-03-020-039-6004敞车无篷布-顶-未标注.jpg#@#Other types of carriage occurs litters.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.140-20230328141856(1726839)-03-008-016-6004未标注.jpg#@#Sandy soil carriage occurs litters.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/val/192.168.1.86-20230627142818(4863432)-01-034-009-6001敞车有篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.66-20230812143507(5726006)-03-021-021-6004.jpg#@#Closed double container occurs container broken.
+/home/huojian/yolov7/datasets/carriage_broken_generate2/images/train/192.168.1.150-20230618183138(4931441)-02-004-017-6003敞车无篷布-侧-未标注.jpg#@#Other types of carriage occurs container broken.
+/home/huojian/yolov7/datasets/openwagon_litter/images/train/192.168.1.86-20230701170755(1837988)-03-036-011-6004敞车无篷布-顶-wei 标注】.jpg#@#Closed double container occurs litters.
+/home/huojian/yolov7/datasets/side_rope/images/val/L042_42敞车小篷布-侧-标注-边绳断开.jpg#@#Carriage with small tarp occurs side ropes broken.
+/home/huojian/yolov7/datasets/side_rope/images/train/192.168.1.66-20231006070058(5313809)-01-012-018-6001板车-侧-未标注-边绳脱钩.jpg#@#Carriage with small tarp occurs side ropes decoupling.
