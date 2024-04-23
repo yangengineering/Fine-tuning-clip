@@ -4,3 +4,5 @@
 *.py linguist-language=Python
 *.png linguist-language=Python
 *.jpg linguist-language=Python
+*.ipynb linguist-language=Python
+*.md linguist-language=Python
