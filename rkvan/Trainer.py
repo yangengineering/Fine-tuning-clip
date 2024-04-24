@@ -137,6 +137,8 @@ class MyTrainer():
         overall_acc = 100 * all_preds.eq(all_gts).float().mean().item()
         self.args.logger.info('train accuracy is {}'.format(overall_acc))
 
+        return overall_acc, all_preds, all_gts
+
 
     
     def train(self):
@@ -146,18 +148,18 @@ class MyTrainer():
         max_acc = 0
         for epoch in range(1, self.args.epoch+1):
             self.model.train()
-            self.train_one_epoch(epoch)
-            acc, all_preds, all_gts, write_csv = self.test()
+            train_acc, train_all_preds, train_all_gts=self.train_one_epoch(epoch)
+            test_acc, test_all_preds, test_all_gts, write_csv = self.test()
 
             # save best model
-            if acc > max_acc:
-                max_acc = acc
+            if test_acc > max_acc:
+                max_acc = test_acc
                 state_dict_best = {'model': self.model.state_dict()}
                 torch.save(state_dict_best, self.args.best_model_path)
-                self.args.logger.info('Best overall accuracy is {}'.format(acc))
-                self.acc_of_each_type_of_train(all_preds, all_gts, write_csv=write_csv)
-                self.acc_of_each_type(all_preds, all_gts, write_csv=write_csv)
-            self.args.logger.info('Epoch:[{}]\tAccuracy:[{}]'.format(epoch, acc))
+                self.args.logger.info('Best overall accuracy is {}'.format(test_acc))
+                self.acc_of_each_type_of_train(train_all_preds, train_all_gts, write_csv=write_csv)
+                self.acc_of_each_type(test_all_preds, test_all_gts, write_csv=write_csv)
+            self.args.logger.info('Epoch:[{}]\tAccuracy:[{}]'.format(epoch, test_acc))
 
             # save checkpoint
             state_dict = {
